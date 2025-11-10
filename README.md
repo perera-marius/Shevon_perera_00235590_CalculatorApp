@@ -22,7 +22,7 @@ Features
 
 How to Run the Application
 1. Open the project in **Visual Studio**.
-2. Click **Run (▶)** or press **F5**.
+2. Click Run or press F5.
 3. Enter two numbers.
 4. Click the operation button (+, −, ×, ÷).
 5. The result will appear on the screen.
